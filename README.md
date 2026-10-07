@@ -183,3 +183,5 @@ Full CRUD application to manage student records, teacher details, and academic i
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2E9EF7&height=150&section=footer&width=100%25" />
 </div>
+
+
