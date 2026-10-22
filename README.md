@@ -126,19 +126,7 @@ Full CRUD application to manage student records, teacher details, and academic i
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,50:6A11CB,100:2E9EF7&height=4&width=1000">
 </div>
 
-## 📊 GitHub Progress & Stats
 
-<div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=yogi2021&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yogi2021&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-
-</div>
-
-<br/>
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,50:6A11CB,100:2E9EF7&height=4&width=1000">
